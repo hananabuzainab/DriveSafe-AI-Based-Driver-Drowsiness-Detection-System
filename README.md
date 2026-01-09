@@ -51,7 +51,7 @@ Camera → Frame Capture → YOLOv11 (NCNN) → Classification → Alert System
 
 **Sources:** NTHU-DDD, YawDD, CEW, Kaggle datasets + custom captures
 
-![dataset](ds.png)
+![dataset](images/ds.png)
 
 ---
 
@@ -95,7 +95,7 @@ Or download the standalone `.exe` from releases (converted using PyInstaller).
 - Start/Stop controls
 - System info dialog
 
-![UI Screenshot](sw.png)
+![UI Screenshot](images/sw.png)
 
 ### Raspberry Pi Deployment (Final System)
 
@@ -149,7 +149,7 @@ python inference_code.py
 
 
 
-<img src="hw.png" width="450" height="450">
+<img src="images/hw.png" width="450" height="450">
 ---
 
 ## 📈 Performance Metrics
