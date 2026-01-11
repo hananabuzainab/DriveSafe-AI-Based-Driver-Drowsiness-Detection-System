@@ -42,9 +42,12 @@ Real-time driver drowsiness detection system using YOLOv11 to monitor facial fea
 |-------|----------|---------|-------|
 | Awake | 6,082 | 2,106 | 8,188 |
 | Drowsy | 6,011 | 2,034 | 8,045 |
-| Absent | 6,000 | 2,013 | 8,013 |
+| Absent | 6,000 | 2,013 | 8,013 | 
 
-**Sources:** NTHU-DDD, YawDD, CEW, Kaggle datasets + custom captures
+![datadist](images/barplot_data_split.jpg)
+
+**Sources:** NTHU-DDD, YawDD, CEW, Kaggle datasets... + custom captures<BR>
+* Samples from **NTHU-DDD** :
 
 ![dataset](images/ds.png)
 
