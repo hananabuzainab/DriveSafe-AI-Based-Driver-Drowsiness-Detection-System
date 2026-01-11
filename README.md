@@ -29,12 +29,7 @@ Real-time driver drowsiness detection system using YOLOv11 to monitor facial fea
 
 ## 🏗️ System Architecture
 
-```
-Camera → Frame Capture → YOLOv11 (NCNN) → Classification → Alert System
-                                                              ├─ Green LED (Face Detected)
-                                                              ├─ Red LED (Absent)
-                                                              └─ Buzzer (more then 10 drowsy frames)
-```
+![workflow](images/workflow.png)
 
 ---
 
